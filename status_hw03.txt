@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Tarun Kumar Attayampatty Sekar
+
+
+2. What hostname did you deploy to?
+hw03.neu-apps.website
+
+3. What's the URL of your git repo?
+https://github.com/tarunkumar-as/webdevHW03.git
+
+4. How much of the functionality did you complete?
+Completed all the required functionalities as mentioned in the TODOS
+
+5. Did you successfully deploy? If not, what's broken?
+Have successfully deplyed in the VPS
+
+6. How comfortable do you feel with Elixir now?
+Not very much confortable
+
+7. Which parts of this assignment did you have trouble with, if any?
+Understanding the Elixir code snippets and establishing the connection to server
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
