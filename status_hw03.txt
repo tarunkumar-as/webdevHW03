@@ -15,10 +15,10 @@ https://github.com/tarunkumar-as/webdevHW03.git
 Completed all the required functionalities as mentioned in the TODOS
 
 5. Did you successfully deploy? If not, what's broken?
-Have successfully deplyed in the VPS
+Have successfully deployed in the VPS
 
 6. How comfortable do you feel with Elixir now?
-Not very much confortable
+Not very much confortable and would need more practice
 
 7. Which parts of this assignment did you have trouble with, if any?
 Understanding the Elixir code snippets and establishing the connection to server
